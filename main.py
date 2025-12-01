@@ -23,8 +23,8 @@ GEMINI_AVAILABLE = False
 
 # Initialise Gemini
 try:
-    # api_key = os.environ.get("GOOGLE_API_KEY")
-    api_key = "AIzaSyDp_8vaTegDyR7UOMq2CRNp_K98-sanOTc"
+    api_key = os.environ.get("GOOGLE_API_KEY")
+    # api_key = GEMINI_API_KEY
     if api_key:
         genai.configure(api_key=api_key)
         GEMINI_AVAILABLE = True
