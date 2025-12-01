@@ -2,6 +2,18 @@
 
 An intelligent agent that performs automated Exploratory Data Analysis on CSV files. Users simply upload a dataset and provide an instruction, and the agent generates all relevant charts and graphs along with detailed text based insights for each visualization.
 
+## Screenshot of Working
+
+- User Input Interface
+- 
+ ![first](https://github.com/user-attachments/assets/d1cc6874-8979-4f1e-8701-1e6bd29afcc7)
+
+- Resopnse
+- 
+![second](https://github.com/user-attachments/assets/fb7fa02e-5438-4546-923b-2a0adc92368b)
+-
+![third](https://github.com/user-attachments/assets/d41ee44d-f52a-482e-9280-bbbda867e290)
+
 ---
 
 ## **Features** ✨
