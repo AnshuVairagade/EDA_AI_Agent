@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+chainlit
+Pillow
+google-generativeai

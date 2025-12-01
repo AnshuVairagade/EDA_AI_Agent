@@ -1,0 +1,12 @@
+Setup Environment
+
+conda create -n chainlitenv python==3.11 -y
+conda activate chainlitenv
+pip install -r requirements.txt
+
+
+Run code : 
+chainlit run app.py
+
+
+Open your browser at http://localhost:8000
